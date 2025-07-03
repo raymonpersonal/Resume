@@ -1,0 +1,16 @@
+let var1 = 3;
+console.log(var1);
+const cal = 2 + 2;
+console.log(cal);
+console.log(cal + 2);
+const result = cal + 2;
+console.log(result);
+const message = 'hello';
+console.log(message);
+var1 = 5;
+console.log(var1);
+var1 = var1 + 1;
+console.log(var1);
+const var2 = 3;
+var var3 = 3;
+console.log(typeof message);
